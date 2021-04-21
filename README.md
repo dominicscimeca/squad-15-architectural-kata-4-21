@@ -1,0 +1,1 @@
+# squad-15-architectural-kata-4-21
